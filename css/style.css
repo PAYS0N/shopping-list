@@ -10,12 +10,12 @@
     justify-content: center;
 }
 
-.middle {
+.center {
     display: flex;
     justify-content: center;
 }
 
-.center {
+.middle {
     width: 500px;
     display: flex;
     flex-direction: column;
